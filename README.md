@@ -58,7 +58,7 @@ Desarrollador fullstack con enfoque en **backend**, **automatización de proceso
 - **Geeks5G (02/2025 – Actual · Medellín)**  
   Backend con **Node.js/Next.js**, frontend con **React/Tailwind**, **AWS S3** para multimedia, Base de datos relacionales y no relacionales con **PostgreSQL/MongoDB** y automatización con **n8n**.
 - **C-Pocket Capital (09/2023 – 01/2025 · Medellín)**  
-  APIs REST con **Node.js/Express**, Bases de datos **MySQL/MongoDB**, Métodologias agiles con Scrum, versionado con **Git*, componentes para front usando **React** y agentes de WhatsApp con **LangChain**.
+  APIs REST con **Node.js/Express**, Bases de datos **MySQL/MongoDB**, Métodologias agiles con Scrum, versionado con **Git**, componentes para front usando **React** y agentes de WhatsApp con **LangChain**.
 
 ---
 
