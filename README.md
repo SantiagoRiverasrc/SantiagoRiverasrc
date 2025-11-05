@@ -17,10 +17,10 @@ Desarrollador fullstack con enfoque en **backend**, **automatización de proceso
 ---
 
 ## 🏆 Highlights
-- **Chatbots inteligentes para WhatsApp**: diseño e integración de agentes con **LangChain** y servicios externos.
-- **Automatización empresarial con n8n**: orquestación de procesos para optimizar tiempos y consistencia operativa.
+- **Chatbots inteligentes para WhatsApp**: Diseño e integración de agentes con **LangChain** y servicios externos.
+- **Automatización empresarial con n8n**: Orquestación de procesos para optimizar tiempos y consistencia operativa.
 - **Aplicaciones de alto rendimiento**: Node.js, TypeScript, Next.js, React, Tailwind CSS.
-- **Bases de datos eficientes**: esquemas y consultas optimizadas en **PostgreSQL/MySQL/MongoDB**.
+- **Bases de datos eficientes**: Esquemas y consultas optimizadas en **PostgreSQL/MySQL/MongoDB**.
 
 ---
 
